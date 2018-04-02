@@ -1,3 +1,3 @@
 # express-generator-practice
-using underscorol
-This is original
+
+This is first expresss-generator practice project
