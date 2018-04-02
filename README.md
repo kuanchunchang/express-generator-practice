@@ -1,2 +1,5 @@
 # express-generator-practice
-add for routing to nick
+Add a routing to route to nick 
+
+example:
+localhost:3000/nick
